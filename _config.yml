@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stephan Rasp"
+title                    : "Yue Harriet H"
 title_separator          : "-"
-name                     : "Stephan Rasp"
+name                     : "Yue Harriet H"
 # description              : "Deep learning research for weather and climate science."
-url                      : "https://raspstephan.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yue1harriet1.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/new_portrait.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "raspstephan"
+  username               : ""
 facebook:
   username               :
   app_id                 :
@@ -106,30 +106,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stephan Rasp"
+  name             : "Yue Harriet H"
   avatar           : "/assets/images/new_portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Research Scientist at Google"
-  location         : "Munich, Germany"
-  # email            : "raspstephan@gmail.com"
+  bio              : "Data Intelligence Enthusiast"
+  location         : "Toronto, Canada"
+  # email            : "dariahuangster@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:raspstephan@gmail.com
+      url: mailto:dariahuangster@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/raspstephan"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/raspstephan"
+      url: "https://github.com/yue1harriet1"
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://researchgate.net/profile/Stephan_Rasp"
+      url: ""
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=vN2y_GEAAAAJ&hl"
+      url: ""
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/stephan-rasp-4154481aa/"
+      url: ""
     # - label: "Newsletter"
     #   icon: "fas fa-fw fa-newspaper"
     #   url: "https://tinyletter.com/raspstephan"
@@ -140,22 +140,22 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:raspstephan@gmail.com
+      url: mailto:dariahuangster@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/raspstephan"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/raspstephan"
+      url: "https://github.com/yue1harriet1"
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://researchgate.net/profile/Stephan_Rasp"
+      url: ""
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=vN2y_GEAAAAJ&hl"
+      url: ""
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/stephan-rasp-4154481aa/"
+      url: ""
     # - label: "Newsletter"
     #   icon: "fas fa-fw fa-newspaper"
     #   url: "https://tinyletter.com/raspstephan"
