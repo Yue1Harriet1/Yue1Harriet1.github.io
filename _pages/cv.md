@@ -52,12 +52,12 @@ Toronto, Canada
 **Data Scientist**, [Cubic Health]()    
 Toronto, Canada
 
-*2011 - 2013*  
+**  
 **Master of Science** 
 *Thesis supervisors:* Prof.  
 *Thesis topic:* SDE
 
-*2007 - 2010*  
+**  
 **Bachelor of Mathematics**  
 *Thesis supervisors:* Dr.   
 *Thesis topic:* GARMA
