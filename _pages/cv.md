@@ -44,11 +44,9 @@ classes: wide
 
 ## Experience/Education
 
-*2020 - now*  
 **Business Intelligence Analyst**, [Canada Deposit Insurance Corporation](https://www.cdic.ca)    
 Toronto, Canada
 
-*2019 - 2020*  
 **Data Scientist**, [Cubic Health]()    
 Toronto, Canada
 
