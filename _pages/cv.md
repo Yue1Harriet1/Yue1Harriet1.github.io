@@ -11,12 +11,6 @@ classes: wide
 
 ## Talks and conference presentations
 
-
-[**Public Data Technology Forum Meetup Group**]([https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling](https://www.youtube.com/channel/UCi6e2FiTbDrRdh90sPdCMXQ)), Online, 2024    
-*LLM-Cookbook series*
-
-
-
 *Invited talks*
 
 [**A Literature Review on ML in Health Care**](https://www.youtube.com/watch?v=WsyHC9cA0jA), Online, Apr 2020    
@@ -34,8 +28,8 @@ classes: wide
 
 ## Workshops
 
-****, Online, October 2020    
-** [Link]()
+[**Public Data Technology Forum Meetup Group**]([https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling](https://www.youtube.com/channel/UCi6e2FiTbDrRdh90sPdCMXQ)), Online, 2024    
+*LLM-Cookbook series*
 
 ---
 
